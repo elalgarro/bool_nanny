@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["andrewalgard@gmail.com"]
 
   spec.summary       = %q{A gem for cleaning up default boolean values}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.description   = %q{loger description to satisfy bundler.}
   spec.homepage      = "https://github.com/elalgarro/bool_nanny"
   spec.license       = "MIT"
 
